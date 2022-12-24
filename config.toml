@@ -1,6 +1,6 @@
 
 [Connection]
-DEFAULT = "192.168.1.92"
+DEFAULT = "217.160.51.80"
 
 IP = "topboy.fr"
 PORT = "19132"
